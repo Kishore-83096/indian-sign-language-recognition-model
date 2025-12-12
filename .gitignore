@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual Environment
+venv/
+VENV/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Machine Learning Models
+*.h5
+*.hdf5
+*.tflite
+*.pb
+*.pt
+*.pth
+*.onnx
+*.joblib
+*.pkl
+*.sav
+
+# Large data files
+*.csv
+*.npz
+*.npy
+*.zip
+*.tar
+*.gz
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Build directories
+build/
+dist/
+
+# Backup files
+*.h5
+*.hdf5
